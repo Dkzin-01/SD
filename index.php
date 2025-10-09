@@ -23,7 +23,7 @@
         <fieldset style="width: 50%">
             <h3> CAMISETAS - R$79,99 CADA  </h3>
             <select name="c1">
-                <option value="1"> Camiseta Homem de Ferro </option>
+                <option value="1"> neda </option>
                 <option value="2"> Camiseta Homem Aranha </option>
                 <option value="3"> Camiseta Hulk </option>
                 <option value="4"> Camiseta Capitão America </option>
